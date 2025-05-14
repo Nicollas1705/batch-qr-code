@@ -1,6 +1,6 @@
 # Batch QR Codes
 
-A Flutter app used to generate and read Batch QR Codes.
+A Flutter app used to generate and read Batch QR Codes. It is used to send/receive large texts using multiple QR Codes.
 
 - Read any sequence of QR Codes (even generated out of app)
 - Generate Batch QR Codes
